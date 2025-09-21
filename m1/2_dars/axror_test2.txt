@@ -1,0 +1,19 @@
+This is axror_test2.txt for 2_dars.
+
+1. Probability Paramietic Function larga qaysilar kiradi?
+*A. normal distribution, expo. distribution, ...
+B. Normal distribution, Histogram
+C. KDE, Histogram
+D. normal distribution, KDE, Pois distribution
+
+2. IQR quyidagilarni qay biriga teng
+A. Q3-Q2
+*B. Q3-Q1
+C. Q3-Q0
+D. Q4-Q2
+
+3. outliner deganda nimani tushinamiz?
+A. datasetdagi ortacha qiymatni
+B. malumotlar orasida uchraydigan eng kop qiymatni
+*C. boshqa qiymatlarda tuban farq qiluvchi datani
+D. eng katta qiymatni

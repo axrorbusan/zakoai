@@ -1,0 +1,17 @@
+1. nega ai da dark age(uzilish davri) bo'lgan?
+A*. yetarli malumot bolmagan
+B. olimlar yetishmagan
+C. hardware bolmagan
+D. A va C togri
+
+2. ai da nechta golen age bo'lgan?
+A. 2ta
+B*. 3ta
+C. 4ta
+D. 5ta
+
+3. 1-dars davomida korib chiqgan iris flower datadan, iris guli qaysi tabular dataga kiradi?
+A. numerical discrete
+B. numericala continuous
+C*. categorical nomial
+D. categorical ordinal
