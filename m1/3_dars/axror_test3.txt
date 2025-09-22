@@ -1,1 +1,18 @@
 This is axror_test3.txt for 3_dars.
+1. zcore normalization formulasi:
+*A. x'=(x-myu)/sigmoid
+B. x'=(x+myu)/sigmoid
+C. x' = (x-sigmoid)/myu
+D. x' = (x+sigmoid)/myu
+
+2. quyidagilarni qaysi biri scaling da kirmaydi:
+A. min max scaling
+*B. AbsMax scaling
+C. standard score normalization
+D. z-score
+
+3. pearson correlation formulasi
+*A. p12=std21/(std1*std2)
+B. p12=std12/(std12*std12)
+C. p12=std1/std2
+D. p12=std1/(std12*std2)
