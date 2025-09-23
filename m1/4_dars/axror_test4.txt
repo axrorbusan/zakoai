@@ -1,1 +1,18 @@
 This is axror_test4.txt for 4_dars.
+1. nima uchun outlier aniqlashdan avval skewness amalga oshiriladi?
+A. mean, sigma value larni togri hisoblash uchun
+B. inverse CDF aniqroq hisoblash uchun
+C. skewness transformsiz distribution hisoblab bolmagani uchun 
+* D. outlierni aniqroq hisoblash uchun
+
+2. continuous data discrete shaklga o'tkazishda qaysi usuldan foydalanamiz?
+A. PMF usulidan
+*B. classlash usulidan
+C. PDF usulidan
+D. togri javob yoq
+
+3. contingency table uchun datasetda nechta ustun bolishi kerak?
+A. 1
+B. 2
+C. 3+
+*D. barcha javoblar togri

@@ -17,3 +17,9 @@ A. datasetdagi ortacha qiymatni
 B. malumotlar orasida uchraydigan eng kop qiymatni
 *C. boshqa qiymatlarda tuban farq qiluvchi datani
 D. eng katta qiymatni.
+
+4. dummy encoding one-hot encoding bilan farqi nima?
+A. datasetda 1ta column tashlab yuboriladi
+B. datasetda 1ta row tashlab yuboriladi
+C. datasetda oxirgi columnga -1 value beriladi
+D. datasetda oxirgi rowga -1 value beriladi
