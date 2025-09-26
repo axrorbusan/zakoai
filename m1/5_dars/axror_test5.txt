@@ -1,19 +1,19 @@
 This is axror_test5.txt for 5_dars.
 
-1. 
-A.
-B.
-C.
-D.
+1. randn va rand farqi nima?
+A. farqi yoq
+B. randn int, rand float uchun
+C. randn float, rand int uchun
+*D. rand 0dan 1gacha, randn -1dan 1gacha qiymatlar uchun
 
-2. 
-A.
-B.
-C.
-D.
+2. seed() nima uchun foydalaniladi
+A. array root hisoblash uchun
+*B. random number generation, aniq bir nuqtadan boshlash uchun
+C. 0dan 1gacha random raqam generate qilish uchun
+D. -1dan 1gacha random raqam generate qilish uchun
 
-3. 
-A.
-B.
-C.
-D.
+3. qaysi code 5x5 shape ga ega bolgan random array yaratadi?
+A. np.random.randint((5,5))
+B. np.random.randint(5,5)
+C. np.random.randint(5,5,5)
+*D. np.random.randint(5, size=(5,5))
