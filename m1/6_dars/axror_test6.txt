@@ -1,1 +1,25 @@
 This is axror_test6.txt for 6_dars.
+
+1. numpy array ni qanday pandas framega o'tkaziladi
+A. df = pd.Frame(myarray)
+*B. df = pd.DataFrame(myarray)
+C. df = pd.FrameSeries(myarray)
+D. df = pd.FrameData(myarray)
+
+2. pandas da series shakldan qanday frame shaklda o'tkaziladi? 
+*A. new_data = mydata.to_frame()
+B. new_data = pd.to_frame(mydata)
+C. new_data = pd.Frame(mydata)
+D. new_data = mydata.Frame()
+
+3. enumerate ni for loopdan nima farqi bor?
+A. enumerate kamroq memory ishlatadi
+B. enumerate faqat string lar bilan ishlaydi
+*C. enumerate da index ni ham ishlatsak boladi
+D. farqi yoq shekili
+
+4. columndagi null qiymatga ega bolgan kataklar summasini qaysi code bilan hisoblaymiz?
+A. df.sum.null()
+B. df.sum(null)
+C. df.sum().isnull()
+*D. df.isnull().sum()w
