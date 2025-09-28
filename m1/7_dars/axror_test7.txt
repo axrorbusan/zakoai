@@ -1,18 +1,25 @@
 This is axror_test7.txt for 7_dars.
-1. 
-A.
-B.
-C.
-D.
 
-2. 
-A.
-B.
-C.
-D.
+1. 200 request status nimani anglatadi
+A. Server xatolik bor
+*B. Sorov successful bajarildi
+C. server topilmadi
+D. kirish taqiqlandi
 
-3. 
-A.
-B.
-C.
-D.
+2. Pandas sample(5, random_state=0) kodida random_state nima uchun ishlatiladi?
+A. display qilinadigan ustunlar sonini belgilaydi
+B. random display ni doim bir xil korsatib beradi
+*C. huddi seed(0) ga oxshab ishlaydi
+D. B va C togri
+
+3. df[new_column] = 'value' ushbu code qanday amal bajaradi
+A. dataframe ga yangi ustun qoshadi
+B. dataframe dagi new_column ustuniga value larni berib chiqadi
+C. A va B togri
+*D. hech qanday amal bajarmaydi. error beradi.
+
+4. df.sort_values(by='A') nima amal bajaradi?
+*A. dataframe dagi ustunni A boyicha tartiblaydi
+B. dataframeda barcha NaN qiymatlarni ochiradi
+C. dataframeda ustun A qiymatlarini 2 barobar oshiradi
+D. dataframeda A ustunlarini ortga suradi
